@@ -179,6 +179,8 @@ export interface sauceDemoTestData {
 }
 
 
-export const sauceDemoTestData: sauceDemoTestData = {
+export const sauceDemoTestData:sauceDemoTestData = {
 
-}
+
+    
+} as sauceDemoTestData
